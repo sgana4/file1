@@ -6,7 +6,7 @@ Product driven delivery pipeline contains workflow for the following products.
  
  SQL-PDDP
  
- CICD-WORKFLOW-FOR-PDP
+ CI/CD-WORKFLOW-FOR-PDP
  
  CI-Process-for-Habitat
  
