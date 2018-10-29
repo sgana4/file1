@@ -14,13 +14,13 @@ Product driven delivery pipeline contains workflow for the following products.
  
  CD-process-for-vRA
  
- In Similiar way we have product driven delivery pipeline workflows for,
+ (In Similiar way we have product driven delivery pipeline workflows for,)
  
   Release-PDDP
   
   Common-PDDP
   
-  (where common PDDP has all the services which are going to be common in multiple product level.)
+  (where common PDDP has all the services which are going to be used in multiple product level like example cmdb,ad service, storage service, and etc.)
   
   
   Vra-PDDP
